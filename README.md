@@ -1,9 +1,23 @@
-# 项目简介
+# Online Tools
 
-## 测试
 
-## 开发简介
+- [Commands](#commands)
+- [Dev Overview](#dev-overview)
+  - [Project Configuration](#project-configuration)
 
-项目配置[链接](https://github.com/wmonk/create-react-app-typescript/blob/master/template/README.md)
+## Commands
 
-## sheader
+### Start
+
+``` bash
+  npm run start
+```
+---
+
+## Dev Overview
+
+### Project Configuration
+
+You can use the command of `create-react-app` can generate react application, referring to [here][create-react-app-ts]
+
+[create-react-app-ts]: https://github.com/wmonk/create-react-app-typescript/blob/master/template/README.md

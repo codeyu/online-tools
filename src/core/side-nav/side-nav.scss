@@ -1,0 +1,47 @@
+.app-side-nav {
+  .nav-title {
+    position: initial;
+
+    span {
+      justify-content: initial;
+      padding-left: 8px;
+
+      @media (max-width: 600px) {
+        padding-left: 0;
+      }
+    }
+  }
+
+  .nav-siteinfo {
+    padding: 10px 25px;
+
+    @media (max-width: 600px) {
+      padding-left: 16px;
+    }
+
+    .name {
+      margin: 0;
+      padding: 20px 0;
+      color: #757575;
+    }
+
+    .version {
+      font-size: 13.6px;
+    }
+
+
+  }
+  .nav-subitem {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
+  .nav-subtitle > span {
+    font-size: 13.6px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+}
