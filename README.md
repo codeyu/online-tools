@@ -1,6 +1,5 @@
 # Online Tools
 
-
 - [Commands](#commands)
 - [Dev Overview](#dev-overview)
   - [Project Configuration](#project-configuration)
@@ -12,6 +11,7 @@
 ``` bash
   npm run start
 ```
+
 ---
 
 ## Dev Overview
