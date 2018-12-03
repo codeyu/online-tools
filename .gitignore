@@ -2,6 +2,7 @@
 
 # css generated replacing with sass
 src/**/*.css
+src/*.css
 
 # dependencies
 /node_modules
