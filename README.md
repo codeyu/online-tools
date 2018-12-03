@@ -1,5 +1,4 @@
-# Online Tools
-
+# Online Tools [![Build Status](https://travis-ci.com/zhoucs624/online-tools.svg?branch=master)](https://travis-ci.com/zhoucs624/online-tools)
 
 - [Commands](#commands)
 - [Dev Overview](#dev-overview)
@@ -12,6 +11,7 @@
 ``` bash
   npm run start
 ```
+
 ---
 
 ## Dev Overview

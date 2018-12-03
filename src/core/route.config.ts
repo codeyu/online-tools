@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 import { AppHtmlFormatter, AppJsonFormatter } from '../formatters';
 import { AppHome } from './home';
 // import { AppDevPending } from './dev-pending';
@@ -7,7 +5,7 @@ import { AppHome } from './home';
 export interface RouteConfigItem {
   path: string;
   name: string;
-  component?: React.ComponentClass;
+  component?: any;
   children?: RouteConfigItem[];
 }
 
