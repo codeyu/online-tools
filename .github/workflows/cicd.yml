@@ -41,8 +41,10 @@ jobs:
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
 
-    - name: Build
-      run: npm run build
+    - name: Build 
+      run: |
+        npm run build
+        mv ./CNAME ./build/
 
     - name: Deploy
       run: |

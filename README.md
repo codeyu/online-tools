@@ -1,3 +1,9 @@
+![CI/CD](https://github.com/codeyu/online-tools/workflows/CI/CD/badge.svg)
+
+[![codecov](https://codecov.io/gh/codeyu/online-tools/branch/master/graph/badge.svg)](https://codecov.io/gh/codeyu/online-tools)
+
+![GitHub](https://img.shields.io/github/license/codeyu/online-tools)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
