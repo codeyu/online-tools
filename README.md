@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/codeyu/online-tools/workflows/CI/CD/badge.svg)
+![CI/CD](https://github.com/codeyu/online-tools/workflows/auto-gh-pages/badge.svg)
 
 [![codecov](https://codecov.io/gh/codeyu/online-tools/branch/master/graph/badge.svg)](https://codecov.io/gh/codeyu/online-tools)
 
